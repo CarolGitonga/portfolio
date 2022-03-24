@@ -1,0 +1,76 @@
+
+.container{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: solid rgba(85, 136, 18, 0.849);
+}
+#major{
+	background-image: url('../images/portfolio.jpeg');
+	height: 680px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	/* margin-top: 10px; */
+}
+#myname{
+	padding: 25px;
+	margin-left: 200px;
+	background-color: #5dcc59;
+}
+h1 {
+	font-size: 35px;
+	margin-top: 25px;
+
+}
+h3{
+	color: black;
+	font-size: 25px;
+}
+#picture{
+	margin-left: 850px;
+	margin-top: -200px;
+}
+h2{
+	text-align: center;
+	color: rgb(12, 12, 136);
+	margin-top: 2px;
+	font-size: 45px;
+}
+
+p{
+	font-size: large;
+}
+
+
+  
+  .site-contact-details li {
+	list-style: none;
+	margin-bottom: 20px; 
+}
+	.site-contact-details li > span {
+	  color: #0a0368;
+	  letter-spacing: .1em;
+	  font-size: 12px;
+	  font-weight: 500;
+	  margin-bottom: 5px;
+	  display: block;
+	 }
+	 p {
+		 font-size: 22px;
+	 }
+	 footer .row {
+		width: 70%;
+		padding: 30px 20px 10px 20px;
+		margin: auto;
+		justify-content: center;
+	}
+	
+	footer img {
+		width: 45px;
+		
+	}
+	
+	footer h5 {
+		font-size: 12px;
+		line-height: 15px;
+	}
